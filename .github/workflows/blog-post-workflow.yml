@@ -12,7 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - run: python3 scripts/update_blog_posts.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
