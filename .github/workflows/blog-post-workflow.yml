@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - run: python3 scripts/update_blog_posts.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          feed_list: "https://vandragt.com/feed"
-          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
+          file_pattern: README.md
