@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Hello Browser 0.2.0](https://vandragt.com/hello-browser-0-2-0)
 - [Lamb 0.10.0](https://vandragt.com/lamb-0-10-0)
+- [Browser tabs are just mini tasks to me, I was closing them mimicking as if I got something done. I really liked tab groups but now I think that's just…](https://vandragt.com/status/258)
 - [Two new system-update versions: 1.3.1 is the latest version , support for more tools and improvements in cleaning up space. #system-update #projects #…](https://vandragt.com/status/255)
 - [Reading Paulo Andrade, last month, “ Using SwiftUI to Build a Mac-assed App in 2026 ” A serious cross-platform framework that unified the two should h…](https://vandragt.com/status/254)
-- [Lamb 0.10.0-rc2 is out: with webmentions, reply posts, WebSub, syntax highlighting, draft preview links, image paste, WebP conversion, a new default t…](https://vandragt.com/status/252)
-- [Vertical dock on elementaryOS 8](https://vandragt.com/vertical-dock-on-elementaryos-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
