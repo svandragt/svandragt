@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [🐑 #Lamb dev log: now generates sitemap.xml + robots.txt (auto-derived from private routes), adds microformats2 (h-entry/h-card) markup, and logs faile…](https://vandragt.com/status/264)
 - [Do I already own this game, and where? gamecheck searches your owned-game libraries across Steam, GOG, Epic and Amazon and prints any matches with the…](https://vandragt.com/status/263)
 - [When your customer starts finding almost as much bugs as you found yourself, you're not leading into the right place. — Ex-Intel principal engineer, F…](https://vandragt.com/status/262)
 - [Do I already own this game, and where? gamecheck searches your owned-game libraries across Steam, GOG, Epic and Amazon and prints any matches with the…](https://vandragt.com/status/261)
 - [Hello Browser 0.2.0](https://vandragt.com/hello-browser-0-2-0)
-- [Lamb 0.10.0](https://vandragt.com/lamb-0-10-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
