@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Lamb 0.11.0 TL;DR](https://vandragt.com/lamb-0-11-0)
 - [An idea: are there any nail clippers that collect the clippings in a compartment? I’d buy one!](https://vandragt.com/status/266)
 - [Pretty tempted to try out a Nintendo Switch Linux setup without joycons with keyboard attachment as a cyber deck! Not sure if it’s viable. I keep thin…](https://vandragt.com/status/265)
 - [🐑 #Lamb dev log: now generates sitemap.xml + robots.txt (auto-derived from private routes), adds microformats2 (h-entry/h-card) markup, and logs faile…](https://vandragt.com/status/264)
 - [Do I already own this game, and where? gamecheck searches your owned-game libraries across Steam, GOG, Epic and Amazon and prints any matches with the…](https://vandragt.com/status/263)
-- [When your customer starts finding almost as much bugs as you found yourself, you're not leading into the right place. — Ex-Intel principal engineer, F…](https://vandragt.com/status/262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
