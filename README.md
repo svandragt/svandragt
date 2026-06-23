@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [It appears some hosters only support docker webapps with one volume mount #til](https://vandragt.com/status/270)
+- [Keep an eye on Move Tab to Another Window – Get this Extension for 🦊 Firefox (en-US) as I just submitted this extension which... moves tabs to other w…](https://vandragt.com/status/269)
+- [If the Slack instance has lost it's icon in the dock, you might need to correct the casing on the StartupWMClass to lowercase: #linux](https://vandragt.com/status/268)
 - [Lamb 0.11.0 TL;DR](https://vandragt.com/lamb-0-11-0)
 - [An idea: are there any nail clippers that collect the clippings in a compartment? I’d buy one!](https://vandragt.com/status/266)
-- [Pretty tempted to try out a Nintendo Switch Linux setup without joycons with keyboard attachment as a cyber deck! Not sure if it’s viable. I keep thin…](https://vandragt.com/status/265)
-- [🐑 #Lamb dev log: now generates sitemap.xml + robots.txt (auto-derived from private routes), adds microformats2 (h-entry/h-card) markup, and logs faile…](https://vandragt.com/status/264)
-- [Do I already own this game, and where? gamecheck searches your owned-game libraries across Steam, GOG, Epic and Amazon and prints any matches with the…](https://vandragt.com/status/263)
 <!-- BLOG-POST-LIST:END -->
 
 ---
