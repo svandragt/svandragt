@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [This morning I built a minimal Sentry style local machine crash collector, it tries to add context to local crashes, then my elementaryOS patcher work…](https://vandragt.com/status/274)
 - [Claude fixed another bug in elementaryOS, with notify-send notifications not showing up in the notification center after a sleep: Root cause was a GDK…](https://vandragt.com/status/273)
 - [Does anyone know good examples of personal sites combining a blog with apps listings? Thinking of changing up my site but the examples I know separate…](https://vandragt.com/status/272)
 - [Enabled IPv6 access to my sites today. Back to the future!](https://vandragt.com/status/271)
 - [It appears some hosters only support docker webapps with one volume mount #til](https://vandragt.com/status/270)
-- [Keep an eye on Move Tab to Another Window – Get this Extension for 🦊 Firefox (en-US) as I just submitted this extension which... moves tabs to other w…](https://vandragt.com/status/269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
