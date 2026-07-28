@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
-- [I have to say I wasn't a fan of GNOME at all, I strongly preferred Pantheon from elementaryOS and XFCE as a second option. However with the PaperWM wi…](https://vandragt.com/status/278)
+- [Lamb 0.12.0](https://vandragt.com/lamb-releases-lamb-0-12-0)
 - [I see Liam Proven of The Reg has decided to need to comment on every new software whether it’s ai assisted, ruining both his enthusiasm for said softw…](https://vandragt.com/status/277)
+- [Turtle is playing the long game](https://vandragt.com/turtle-is-playing-the-long-game)
+- [I have to say I wasn't a fan of GNOME at all, I strongly preferred Pantheon from elementaryOS and XFCE as a second option. However with the PaperWM wi…](https://vandragt.com/status/278)
 - [I keep learning things while working with agentic LLM and wanted to keep growing as I'm introduced to new concepts and solutions. So I built a small s…](https://vandragt.com/status/276)
-- [Added split task tracking feature to my little TimeTracker app. Time is divided between the active tasks. So if you are updating personal goals, this…](https://vandragt.com/status/275)
-- [This morning I built a minimal Sentry style local machine crash collector, it tries to add context to local crashes, then my elementaryOS patcher work…](https://vandragt.com/status/274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
