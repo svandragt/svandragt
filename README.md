@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Why not automatically update when the app is quitting? Yes sometimes this is when the computer shuts down, but often it isn’t, especially if the user…](https://vandragt.com/status/287)
 - [Lamb 0.12.0](https://vandragt.com/lamb-releases-lamb-0-12-0)
 - [I see Liam Proven of The Reg has decided to need to comment on every new software whether it’s ai assisted, ruining both his enthusiasm for said softw…](https://vandragt.com/status/277)
 - [Turtle is playing the long game](https://vandragt.com/turtle-is-playing-the-long-game)
 - [I have to say I wasn't a fan of GNOME at all, I strongly preferred Pantheon from elementaryOS and XFCE as a second option. However with the PaperWM wi…](https://vandragt.com/status/278)
-- [I keep learning things while working with agentic LLM and wanted to keep growing as I'm introduced to new concepts and solutions. So I built a small s…](https://vandragt.com/status/276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
