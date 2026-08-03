@@ -9,6 +9,7 @@ import html
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 
 FEED = "https://vandragt.com/feed"
 README = "README.md"
@@ -51,7 +52,11 @@ def parse_atom(root):
             e.findtext("a:content", default="", namespaces=ns)
             or e.findtext("a:summary", default="", namespaces=ns)
         )
-        items.append((title, url, body))
+        date = (
+            e.findtext("a:published", default="", namespaces=ns)
+            or e.findtext("a:updated", default="", namespaces=ns)
+        )[:10]
+        items.append((title, url, body, date))
     return items
 
 
@@ -61,7 +66,10 @@ def parse_rss(root):
         title = (item.findtext("title") or "").strip()
         url = (item.findtext("link") or "").strip()
         body = strip_html(item.findtext("description") or "")
-        items.append((title, url, body))
+        date = (item.findtext("pubDate") or "").strip()
+        if date:
+            date = parsedate_to_datetime(date).strftime("%Y-%m-%d")
+        items.append((title, url, body, date))
     return items
 
 
@@ -74,10 +82,11 @@ def main():
     items = items[:MAX_POSTS]
 
     lines = []
-    for title, url, body in items:
+    for title, url, body, date in items:
         label = title if title else excerpt(body)
         label = md_escape(label) or url
-        lines.append(f"- [{label}]({url})")
+        prefix = f"{date} — " if date else ""
+        lines.append(f"- {prefix}[{label}]({url})")
     block = "\n".join(lines)
 
     with open(README, encoding="utf-8") as f:

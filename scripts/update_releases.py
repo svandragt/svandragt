@@ -52,8 +52,9 @@ def main():
 
     lines = []
     for name, rel in releases:
+        date = rel["createdAt"][:10]
         label = md_escape(f"{name} {rel['name'] or rel['tagName']}")
-        lines.append(f"- [{label}]({rel['url']})")
+        lines.append(f"- {date} — [{label}]({rel['url']})")
     block = "\n".join(lines)
 
     with open(README, encoding="utf-8") as f:

@@ -8,22 +8,22 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
-- [plex-janitor 1.0.2](https://github.com/svandragt/plex-janitor/releases/tag/1.0.2)
-- [streamcables v0.2.0](https://github.com/svandragt/streamcables/releases/tag/v0.2.0)
-- [nethealth v0.1.0](https://github.com/svandragt/nethealth/releases/tag/v0.1.0)
-- [lamb Lamb 0.12.0](https://github.com/svandragt/lamb/releases/tag/0.12.0)
-- [sidewing 0.2.5](https://github.com/svandragt/sidewing/releases/tag/0.2.5)
+- 2026-08-03 — [plex-janitor 1.0.2](https://github.com/svandragt/plex-janitor/releases/tag/1.0.2)
+- 2026-08-03 — [streamcables v0.2.0](https://github.com/svandragt/streamcables/releases/tag/v0.2.0)
+- 2026-07-28 — [nethealth v0.1.0](https://github.com/svandragt/nethealth/releases/tag/v0.1.0)
+- 2026-07-25 — [lamb 0.12.0](https://github.com/svandragt/lamb/releases/tag/0.12.0)
+- 2026-07-24 — [sidewing 0.2.5](https://github.com/svandragt/sidewing/releases/tag/0.2.5)
 <!-- RELEASES-LIST:END -->
 
 ---
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
-- [Why not automatically update when the app is quitting? Yes sometimes this is when the computer shuts down, but often it isn’t, especially if the user…](https://vandragt.com/status/287)
-- [Lamb 0.12.0](https://vandragt.com/lamb-releases-lamb-0-12-0)
-- [I see Liam Proven of The Reg has decided to need to comment on every new software whether it’s ai assisted, ruining both his enthusiasm for said softw…](https://vandragt.com/status/277)
-- [Turtle is playing the long game](https://vandragt.com/turtle-is-playing-the-long-game)
-- [I have to say I wasn't a fan of GNOME at all, I strongly preferred Pantheon from elementaryOS and XFCE as a second option. However with the PaperWM wi…](https://vandragt.com/status/278)
+- 2026-07-31 — [Why not automatically update when the app is quitting? Yes sometimes this is when the computer shuts down, but often it isn’t, especially if the user…](https://vandragt.com/status/287)
+- 2026-07-25 — [Lamb 0.12.0](https://vandragt.com/lamb-releases-lamb-0-12-0)
+- 2026-07-15 — [I see Liam Proven of The Reg has decided to need to comment on every new software whether it’s ai assisted, ruining both his enthusiasm for said softw…](https://vandragt.com/status/277)
+- 2026-07-28 — [Turtle is playing the long game](https://vandragt.com/turtle-is-playing-the-long-game)
+- 2026-07-16 — [I have to say I wasn't a fan of GNOME at all, I strongly preferred Pantheon from elementaryOS and XFCE as a second option. However with the PaperWM wi…](https://vandragt.com/status/278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -67,4 +67,4 @@ graph LR
 
 ---
 
-<iframe src="https://github.com/sponsors/svandragt/card" title="Sponsor svandragt" height="225" width="600" style="border: 0;"></iframe>
+[![Sponsor @svandragt](https://img.shields.io/badge/sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/svandragt)
