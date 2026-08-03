@@ -1,4 +1,4 @@
-name: Update blog posts
+name: Update blog posts and releases
 
 on:
   schedule:
@@ -11,10 +11,13 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v7
       - run: python3 scripts/update_blog_posts.py
+      - run: python3 scripts/update_releases.py
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "chore: update latest blog posts"
+          commit_message: "chore: update latest blog posts and releases"
           file_pattern: README.md

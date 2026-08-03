@@ -6,6 +6,17 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ---
 
+### 🚀 Latest releases
+<!-- RELEASES-LIST:START -->
+- [plex-janitor 1.0.2](https://github.com/svandragt/plex-janitor/releases/tag/1.0.2)
+- [streamcables v0.2.0](https://github.com/svandragt/streamcables/releases/tag/v0.2.0)
+- [nethealth v0.1.0](https://github.com/svandragt/nethealth/releases/tag/v0.1.0)
+- [lamb Lamb 0.12.0](https://github.com/svandragt/lamb/releases/tag/0.12.0)
+- [sidewing 0.2.5](https://github.com/svandragt/sidewing/releases/tag/0.2.5)
+<!-- RELEASES-LIST:END -->
+
+---
+
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
 - [Why not automatically update when the app is quitting? Yes sometimes this is when the computer shuts down, but often it isn’t, especially if the user…](https://vandragt.com/status/287)
@@ -53,3 +64,7 @@ graph LR
 
 ![svandragt's GitHub stats](https://github-readme-stats.vercel.app/api?username=svandragt&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svandragt&layout=compact&hide_border=true)
+
+---
+
+<iframe src="https://github.com/sponsors/svandragt/card" title="Sponsor svandragt" height="225" width="600" style="border: 0;"></iframe>
