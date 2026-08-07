@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-08-06 — [https://svandragt.github.io/memory-games/ made some games based on scientific principles to improve remembering multiple things at a time.](https://vandragt.com/status/294)
 - 2026-08-06 — [Another AI evaluation resulting in real world harm. I feel the brazen way these AI escapades are described rejects both human accountability and that…](https://vandragt.com/status/293)
 - 2026-07-31 — [Why not automatically update when the app is quitting? Yes sometimes this is when the computer shuts down, but often it isn’t, especially if the user…](https://vandragt.com/status/287)
 - 2026-07-25 — [Lamb 0.12.0](https://vandragt.com/lamb-releases-lamb-0-12-0)
 - 2026-07-15 — [I see Liam Proven of The Reg has decided to need to comment on every new software whether it’s ai assisted, ruining both his enthusiasm for said softw…](https://vandragt.com/status/277)
-- 2026-07-28 — [Turtle is playing the long game](https://vandragt.com/turtle-is-playing-the-long-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
