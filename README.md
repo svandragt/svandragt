@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-08-10 — [https://svandragt.github.io/linux-music-plugins-db/ did a little research into yabridge compatible music plugins #linux](https://vandragt.com/status/295)
 - 2026-08-06 — [https://svandragt.github.io/memory-games/ made some games based on scientific principles to improve remembering multiple things at a time.](https://vandragt.com/status/294)
 - 2026-08-06 — [In reply to simonwillison.net Another AI evaluation resulting in real world harm. I feel the brazen way these AI escapades are described rejects both…](https://vandragt.com/status/293)
 - 2026-07-31 — [In reply to daringfireball.net Why not automatically update when the app is quitting? Yes sometimes this is when the computer shuts down, but often it…](https://vandragt.com/status/287)
 - 2026-07-25 — [Lamb 0.12.0](https://vandragt.com/lamb-releases-lamb-0-12-0)
-- 2026-07-15 — [I see Liam Proven of The Reg has decided to need to comment on every new software whether it’s ai assisted, ruining both his enthusiasm for said softw…](https://vandragt.com/status/277)
 <!-- BLOG-POST-LIST:END -->
 
 ---
