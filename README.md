@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-08-15 — [Changed a Thinkpad’s battery by holding one switch, the battery detached and the other was clicked into its place. 🥰](https://vandragt.com/status/753)
 - 2026-08-14 — [Imported the content from micro.vandragt.com and 2020.vandragt.com into this site with the Known CMS importer feature for #Lamb . Sets up redirects so…](https://vandragt.com/status/752)
 - 2020-03-09 — [Introducing Faff - Firefox bookmark indexing](https://vandragt.com/firefox-bookmark-indexing)
 - 2011-06-08 — [Smart Podcast Playlist](https://vandragt.com/smart-podcast-playlist)
 - 2026-08-10 — [https://svandragt.github.io/linux-music-plugins-db/ did a little research into yabridge compatible music plugins #linux](https://vandragt.com/status/295)
-- 2026-08-06 — [https://svandragt.github.io/memory-games/ made some games based on scientific principles to improve remembering multiple things at a time.](https://vandragt.com/status/294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
