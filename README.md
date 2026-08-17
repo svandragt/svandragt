@@ -8,10 +8,10 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-08-16 — [lamb Lamb 0.13.0-rc1](https://github.com/svandragt/lamb/releases/tag/0.13.0-rc1)
 - 2026-08-03 — [plex-janitor 1.0.2](https://github.com/svandragt/plex-janitor/releases/tag/1.0.2)
 - 2026-08-03 — [streamcables v0.2.0](https://github.com/svandragt/streamcables/releases/tag/v0.2.0)
 - 2026-07-28 — [nethealth v0.1.0](https://github.com/svandragt/nethealth/releases/tag/v0.1.0)
-- 2026-07-25 — [lamb 0.12.0](https://github.com/svandragt/lamb/releases/tag/0.12.0)
 - 2026-07-24 — [sidewing 0.2.5](https://github.com/svandragt/sidewing/releases/tag/0.2.5)
 <!-- RELEASES-LIST:END -->
 
@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-08-16 — [Lamb 0.13.0-rc1](https://vandragt.com/lamb-releases-lamb-0-13-0-rc1)
+- 2026-08-16 — [Do you have a subdirectory based personal blog?](https://vandragt.com/status/756)
+- 2026-08-16 — [Do you have a subdirectory or subdomain blog? Would not having the former be a blocker?](https://vandragt.com/status/755)
+- 2026-08-16 — [Claude code makes spelling mistakes? 126 tests pass. Now the retrospective you asked for — auditing the rest of the app against what we kept fixting:](https://vandragt.com/status/754)
 - 2026-08-15 — [Changed a Thinkpad’s battery by holding one switch, the battery detached and the other was clicked into its place. 🥰](https://vandragt.com/status/753)
-- 2026-08-14 — [Imported the content from micro.vandragt.com and 2020.vandragt.com into this site with the Known CMS importer feature for #Lamb . Sets up redirects so…](https://vandragt.com/status/752)
-- 2020-03-09 — [Introducing Faff - Firefox bookmark indexing](https://vandragt.com/firefox-bookmark-indexing)
-- 2011-06-08 — [Smart Podcast Playlist](https://vandragt.com/smart-podcast-playlist)
-- 2026-08-10 — [https://svandragt.github.io/linux-music-plugins-db/ did a little research into yabridge compatible music plugins #linux](https://vandragt.com/status/295)
 <!-- BLOG-POST-LIST:END -->
 
 ---
