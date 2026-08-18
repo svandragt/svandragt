@@ -20,10 +20,10 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
 - 2026-08-16 — [Lamb 0.13.0-rc1](https://vandragt.com/lamb-releases-lamb-0-13-0-rc1)
+- 2026-08-18 — [In reply to daringfireball.net John Gruber writes about the difficult birth of Siri AI: Last winter Apple sent an entire team, including engineers, to…](https://vandragt.com/status/759)
+- 2026-08-17 — [Built a small tool jotta-canary which alerts your phone when a machine's Jottacloud sync folder stops syncing. Private repo for now, unless there's in…](https://vandragt.com/status/758)
 - 2026-08-16 — [Do you have a subdirectory based personal blog?](https://vandragt.com/status/756)
 - 2026-08-16 — [Do you have a subdirectory or subdomain blog? Would not having the former be a blocker?](https://vandragt.com/status/755)
-- 2026-08-16 — [Claude code makes spelling mistakes? 126 tests pass. Now the retrospective you asked for — auditing the rest of the app against what we kept fixting:](https://vandragt.com/status/754)
-- 2026-08-15 — [Changed a Thinkpad’s battery by holding one switch, the battery detached and the other was clicked into its place. 🥰](https://vandragt.com/status/753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
