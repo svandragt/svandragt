@@ -8,22 +8,22 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-08-21 — [lamb 0.13.0-rc2](https://github.com/svandragt/lamb/releases/tag/0.13.0-rc2)
+- 2026-08-21 — [gala-xy v0.2.0](https://github.com/svandragt/gala-xy/releases/tag/v0.2.0)
 - 2026-08-18 — [jotta-tools 0.2](https://github.com/svandragt/jotta-tools/releases/tag/0.2)
-- 2026-08-16 — [lamb Lamb 0.13.0-rc1](https://github.com/svandragt/lamb/releases/tag/0.13.0-rc1)
 - 2026-08-03 — [plex-janitor 1.0.2](https://github.com/svandragt/plex-janitor/releases/tag/1.0.2)
 - 2026-08-03 — [streamcables v0.2.0](https://github.com/svandragt/streamcables/releases/tag/v0.2.0)
-- 2026-07-28 — [nethealth v0.1.0](https://github.com/svandragt/nethealth/releases/tag/v0.1.0)
 <!-- RELEASES-LIST:END -->
 
 ---
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-08-21 — [Retelling by firelight Legends of the Sleeping Keeper](https://vandragt.com/retelling-by-firelight-legends-of-the-sleeping-keeper)
+- 2026-08-22 — [0.9.0](https://vandragt.com/lamb-releases-0-9-0)
+- 2026-08-22 — [0.10.0](https://vandragt.com/lamb-releases-0-10-0)
+- 2026-08-21 — [Gala-xy 0.2 released](https://vandragt.com/gala-xy-0-2-released)
 - 2026-08-16 — [Lamb 0.13.0-rc1](https://vandragt.com/lamb-releases-lamb-0-13-0-rc1)
-- 2026-08-18 — [In reply to daringfireball.net John Gruber writes about the difficult birth of Siri AI: Last winter Apple sent an entire team, including engineers, to…](https://vandragt.com/status/759)
-- 2026-08-17 — [Built a small tool jotta-canary which alerts your phone when a machine's Jottacloud sync folder stops syncing. Private repo for now, unless there's in…](https://vandragt.com/status/758)
-- 2026-08-16 — [Do you have a subdirectory based personal blog?](https://vandragt.com/status/756)
-- 2026-08-16 — [Do you have a subdirectory or subdomain blog? Would not having the former be a blocker?](https://vandragt.com/status/755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
