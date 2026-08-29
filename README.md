@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-08-28 — [park 1.0](https://github.com/svandragt/park/releases/tag/1.0)
 - 2026-08-27 — [hello-browser 0.3.0](https://github.com/svandragt/hello-browser/releases/tag/0.3.0)
 - 2026-08-25 — [lamb Lamb 0.14.0](https://github.com/svandragt/lamb/releases/tag/0.14.0)
 - 2026-08-21 — [gala-xy v0.2.0](https://github.com/svandragt/gala-xy/releases/tag/v0.2.0)
 - 2026-08-18 — [jotta-tools 0.2](https://github.com/svandragt/jotta-tools/releases/tag/0.2)
-- 2026-08-03 — [plex-janitor 1.0.2](https://github.com/svandragt/plex-janitor/releases/tag/1.0.2)
 <!-- RELEASES-LIST:END -->
 
 ---
