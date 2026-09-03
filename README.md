@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-02 — [Bigger context windows don't mean what people think](https://vandragt.com/bigger-context-windows-don-t-mean-what-people-think)
 - 2026-09-01 — [If you don’t understand how the sausage was made you have made legacy sausage.](https://vandragt.com/status/768)
 - 2026-08-30 — [Created a workflow catalog and a workflow creation skill to give me both a visualisation of project workflows and how they interact plus a way to hook…](https://vandragt.com/status/767)
 - 2026-08-29 — [There’s now a tutorial for writing your first post with #Lamb , my micro blog.](https://vandragt.com/status/766)
 - 2026-08-25 — [DailyFeed gathers the blogs, news sites and newsletters you follow into a single edition. It arrives at the hour you pick, in your own timezone. It is…](https://vandragt.com/status/765)
-- 2026-08-24 — [Lamb 0.14.0](https://vandragt.com/lamb-releases-lamb-0-14-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
