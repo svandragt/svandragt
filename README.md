@@ -8,10 +8,10 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-09-09 — [lamb 0.15.0-rc1](https://github.com/svandragt/lamb/releases/tag/0.15.0-rc1)
 - 2026-09-07 — [repoman 0.4](https://github.com/svandragt/repoman/releases/tag/0.4)
 - 2026-08-28 — [park 1.0](https://github.com/svandragt/park/releases/tag/1.0)
 - 2026-08-27 — [hello-browser 0.3.0](https://github.com/svandragt/hello-browser/releases/tag/0.3.0)
-- 2026-08-25 — [lamb Lamb 0.14.0](https://github.com/svandragt/lamb/releases/tag/0.14.0)
 - 2026-08-21 — [gala-xy v0.2.0](https://github.com/svandragt/gala-xy/releases/tag/v0.2.0)
 <!-- RELEASES-LIST:END -->
 
@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-09 — [Lamb 0.15.0-rc1](https://vandragt.com/lamb-releases-0-15-0-rc1)
+- 2026-09-09 — [Hey Sander, how did you manage to post photos from your phone using responsive image sizes in webp optimised format? Glad you asked, by installing Lam…](https://vandragt.com/status/899)
 - 2026-09-06 — [Robots only I guess](https://vandragt.com/robots-only-i-guess)
 - 2026-09-04 — [Tried Haiku OS Beta 6 in QEMU, and it works nicely. Hoping to build some small apps, but I don't know C++. To check viability, I did a viability spike…](https://vandragt.com/status/770)
 - 2026-09-01 — [If you don’t understand how the sausage was made you have made legacy sausage.](https://vandragt.com/status/768)
-- 2026-08-30 — [Created a workflow catalog and a workflow creation skill to give me both a visualisation of project workflows and how they interact plus a way to hook…](https://vandragt.com/status/767)
-- 2026-08-29 — [There’s now a tutorial for writing your first post with #Lamb , my micro blog.](https://vandragt.com/status/766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
