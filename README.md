@@ -8,9 +8,9 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-09-14 — [park v1.1.0](https://github.com/svandragt/park/releases/tag/v1.1.0)
 - 2026-09-09 — [lamb 0.15.0-rc1](https://github.com/svandragt/lamb/releases/tag/0.15.0-rc1)
 - 2026-09-07 — [repoman 0.4](https://github.com/svandragt/repoman/releases/tag/0.4)
-- 2026-08-28 — [park 1.0](https://github.com/svandragt/park/releases/tag/1.0)
 - 2026-08-27 — [hello-browser 0.3.0](https://github.com/svandragt/hello-browser/releases/tag/0.3.0)
 - 2026-08-21 — [gala-xy v0.2.0](https://github.com/svandragt/gala-xy/releases/tag/v0.2.0)
 <!-- RELEASES-LIST:END -->
@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-14 — [park v1.1.0: syncing between machines](https://vandragt.com/park-v1-1-0-syncing-between-machines)
+- 2026-09-14 — [viv 0.11.0, and a two-word deletion](https://vandragt.com/viv-0-11-0-and-a-two-word-deletion)
 - 2026-09-11 — [The iPhone Duo seems interesting to me but mainly because of the “laptop mode” and being able to read content like Safari in landscape without needing…](https://vandragt.com/status/900)
 - 2026-09-09 — [Lamb 0.15.0-rc1](https://vandragt.com/lamb-releases-0-15-0-rc1)
 - 2026-09-09 — [Hey Sander, how did you manage to post photos from your phone using responsive image sizes in webp optimised format? Glad you asked, by installing Lam…](https://vandragt.com/status/899)
-- 2026-09-06 — [Robots only I guess](https://vandragt.com/robots-only-i-guess)
-- 2026-09-04 — [Tried Haiku OS Beta 6 in QEMU, and it works nicely. Hoping to build some small apps, but I don't know C++. To check viability, I did a viability spike…](https://vandragt.com/status/770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
