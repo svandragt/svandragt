@@ -8,22 +8,22 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-09-16 — [jotta-tools 0.3](https://github.com/svandragt/jotta-tools/releases/tag/0.3)
 - 2026-09-14 — [park v1.1.0](https://github.com/svandragt/park/releases/tag/v1.1.0)
 - 2026-09-09 — [lamb 0.15.0-rc1](https://github.com/svandragt/lamb/releases/tag/0.15.0-rc1)
 - 2026-09-07 — [repoman 0.4](https://github.com/svandragt/repoman/releases/tag/0.4)
 - 2026-08-27 — [hello-browser 0.3.0](https://github.com/svandragt/hello-browser/releases/tag/0.3.0)
-- 2026-08-21 — [gala-xy v0.2.0](https://github.com/svandragt/gala-xy/releases/tag/v0.2.0)
 <!-- RELEASES-LIST:END -->
 
 ---
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-16 — [PHP 8.6 beta 3: Good to know #lamb is already compatible. 2342 tests, 4332 assertions, identical to an 8.4 control in the same image. Zero deprecation…](https://vandragt.com/status/905)
+- 2026-09-16 — [This is posted via micropub with the latest release from micro.blog iOS app.](https://vandragt.com/status/904)
+- 2026-09-16 — [Vivace got a manual now! Good software has good documentation! #projects #vivace](https://vandragt.com/status/903)
 - 2026-09-14 — [park v1.1.0: syncing between machines](https://vandragt.com/park-v1-1-0-syncing-between-machines)
 - 2026-09-14 — [viv 0.11.0, and a two-word deletion](https://vandragt.com/viv-0-11-0-and-a-two-word-deletion)
-- 2026-09-11 — [The iPhone Duo seems interesting to me but mainly because of the “laptop mode” and being able to read content like Safari in landscape without needing…](https://vandragt.com/status/900)
-- 2026-09-09 — [Lamb 0.15.0-rc1](https://vandragt.com/lamb-releases-0-15-0-rc1)
-- 2026-09-09 — [Hey Sander, how did you manage to post photos from your phone using responsive image sizes in webp optimised format? Glad you asked, by installing Lam…](https://vandragt.com/status/899)
 <!-- BLOG-POST-LIST:END -->
 
 ---
