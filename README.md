@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-18 — [viv 0.14.0 is out. It installs PHP dependencies from a composer.lock and writes the same vendor/ Composer would, byte for byte – 20 of 20 pinned proje…](https://vandragt.com/status/908)
+- 2026-09-18 — [Run a weekly ClamAV scan that uses all your cores](https://vandragt.com/run-a-weekly-clamav-scan-that-uses-all-your-cores)
+- 2026-09-18 — [It began as a question, whether a person directing coding agents can build a faster drop-in Composer, and that question is answered. The compatible mo…](https://vandragt.com/status/906)
 - 2026-09-16 — [PHP 8.6 beta 3: Good to know #lamb is already compatible. 2342 tests, 4332 assertions, identical to an 8.4 control in the same image. Zero deprecation…](https://vandragt.com/status/905)
 - 2026-09-16 — [This is posted via micropub with the latest release from micro.blog iOS app.](https://vandragt.com/status/904)
-- 2026-09-16 — [Vivace got a manual now! Good software has good documentation! #projects #vivace](https://vandragt.com/status/903)
-- 2026-09-14 — [park v1.1.0: syncing between machines](https://vandragt.com/park-v1-1-0-syncing-between-machines)
-- 2026-09-14 — [viv 0.11.0, and a two-word deletion](https://vandragt.com/viv-0-11-0-and-a-two-word-deletion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
