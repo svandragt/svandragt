@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-23 — [mdex is a Markdown editor and exporter to Slack/Jira/Micropub powered blog. Write exporter plugins in JavaScript #projects #mdex](https://vandragt.com/status/913)
+- 2026-09-23 — [I keep trying to get prose from ai agents that matches my style. But I think perhaps it’s more productive to summarise key points then write it myself…](https://vandragt.com/status/912)
 - 2026-09-21 — [Want me to apply the fix and commit it? ❯ why wouldn't i? ● No reason — I was asking out of habit rather than because there was a real decision left…](https://vandragt.com/status/911)
 - 2026-09-21 — [Been working on a listing post type so you can sell your stuff via your website. When I mean sell I mean advertise as that’s literally all it does, wi…](https://vandragt.com/status/910)
 - 2026-09-19 — [Shortcutting to output using AI gives me a similar feeling as using cheat codes when gaming , short term reward but skipping the interesting journey.](https://vandragt.com/status/909)
-- 2026-09-18 — [viv 0.14.0 is out. It installs PHP dependencies from a composer.lock and writes the same vendor/ Composer would, byte for byte – 20 of 20 pinned proje…](https://vandragt.com/status/908)
-- 2026-09-18 — [Run a weekly ClamAV scan that uses all your cores](https://vandragt.com/run-a-weekly-clamav-scan-that-uses-all-your-cores)
 <!-- BLOG-POST-LIST:END -->
 
 ---
