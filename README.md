@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-07 — [viv 0.15 to 0.21](https://vandragt.com/viv-0-15-to-0-21)
 - 2026-09-30 — [Let’s see if we can help out eBay and get some items sold https://listings.vandragt.com/](https://vandragt.com/status/917)
 - 2026-09-30 — [Does Microsoft ever change? Learned today to install a UA switcher addon and switch to Edge for Windows and you get the new version of Teams with more…](https://vandragt.com/status/916)
 - 2026-09-27 — [I can’t believe anyone just uses their phone as their main computing device. It’s so rubbish. Web page for insurance forms just reloads in the middle…](https://vandragt.com/status/914)
 - 2026-09-23 — [mdex is a Markdown editor and exporter to Slack/Jira/Micropub powered blog. Write exporter plugins in JavaScript #projects #mdex](https://vandragt.com/status/913)
-- 2026-09-23 — [I keep trying to get prose from ai agents that matches my style. But I think perhaps it’s more productive to summarise key points then write it myself…](https://vandragt.com/status/912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
