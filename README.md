@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-19 — [Love these QOL oneshot prompts: a small service now watches for the screen lock. When you lock, it pauses every media player that is playing. When you…](https://vandragt.com/status/921)
+- 2026-10-19 — [Working on: Folio](https://vandragt.com/status/920)
 - 2026-10-08 — [Working a little bit recently on restoring Pantheon desktop on top of OpenSUSE Leap instead of Ubuntu 24.04. Out of date version for both, but it was…](https://vandragt.com/status/919)
 - 2026-10-07 — [viv 0.15 to 0.21](https://vandragt.com/viv-0-15-to-0-21)
 - 2026-09-30 — [Let’s see if we can help out eBay and get some items sold https://listings.vandragt.com/](https://vandragt.com/status/917)
-- 2026-09-30 — [Does Microsoft ever change? Learned today to install a UA switcher addon and switch to Edge for Windows and you get the new version of Teams with more…](https://vandragt.com/status/916)
-- 2026-09-27 — [I can’t believe anyone just uses their phone as their main computing device. It’s so rubbish. Web page for insurance forms just reloads in the middle…](https://vandragt.com/status/914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
