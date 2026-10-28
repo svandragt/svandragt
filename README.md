@@ -8,11 +8,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
-- 2026-10-06 — [vivace v0.21.0](https://github.com/svandragt/vivace/releases/tag/v0.21.0)
+- 2026-10-28 — [vivace v0.23.0](https://github.com/svandragt/vivace/releases/tag/v0.23.0)
+- 2026-10-27 — [lamb 0.15.0-rc2](https://github.com/svandragt/lamb/releases/tag/0.15.0-rc2)
 - 2026-09-21 — [gala-xy v0.3.0](https://github.com/svandragt/gala-xy/releases/tag/v0.3.0)
 - 2026-09-16 — [jotta-tools 0.3](https://github.com/svandragt/jotta-tools/releases/tag/0.3)
 - 2026-09-14 — [park v1.1.0](https://github.com/svandragt/park/releases/tag/v1.1.0)
-- 2026-09-09 — [lamb 0.15.0-rc1](https://github.com/svandragt/lamb/releases/tag/0.15.0-rc1)
 <!-- RELEASES-LIST:END -->
 
 ---
