@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-28 — [Created a fun real time walkie talkie app https://svandragt.github.io/over-and-out/ share a link with someone and get vintage realtime communication l…](https://vandragt.com/status/926)
+- 2026-10-28 — [Got some items to sell? Build out a tinylistings instance and send some more eyes to your eBay listings. Demo: https://listings.vandragt.com/ . v1.0 j…](https://vandragt.com/status/925)
 - 2026-10-20 — [herdr-dash: a board for my agent sessions](https://vandragt.com/herdr-dash-a-board-for-my-agent-sessions)
 - 2026-10-20 — [Created a small script that allows you to save Windows groups so that when you focus one you focus all. Handy for companion apps.](https://vandragt.com/status/922)
 - 2026-10-19 — [Love these QOL oneshot prompts: a small service now watches for the screen lock. When you lock, it pauses every media player that is playing. When you…](https://vandragt.com/status/921)
-- 2026-10-19 — [Working on: Folio](https://vandragt.com/status/920)
-- 2026-10-08 — [Working a little bit recently on restoring Pantheon desktop on top of OpenSUSE Leap instead of Ubuntu 24.04. Out of date version for both, but it was…](https://vandragt.com/status/919)
 <!-- BLOG-POST-LIST:END -->
 
 ---
