@@ -8,22 +8,22 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-11-01 — [streamcables v0.3.0](https://github.com/svandragt/streamcables/releases/tag/v0.3.0)
+- 2026-11-01 — [fafi 0.3.1](https://github.com/svandragt/fafi/releases/tag/0.3.1)
 - 2026-10-30 — [park v1.2.0](https://github.com/svandragt/park/releases/tag/v1.2.0)
 - 2026-10-28 — [vivace v0.23.0](https://github.com/svandragt/vivace/releases/tag/v0.23.0)
 - 2026-10-27 — [lamb 0.15.0-rc2](https://github.com/svandragt/lamb/releases/tag/0.15.0-rc2)
-- 2026-09-21 — [gala-xy v0.3.0](https://github.com/svandragt/gala-xy/releases/tag/v0.3.0)
-- 2026-09-16 — [jotta-tools 0.3](https://github.com/svandragt/jotta-tools/releases/tag/0.3)
 <!-- RELEASES-LIST:END -->
 
 ---
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-01 — [Diff explanations for GitHub pull requests, powered by LLM. v0.1.0 #projects #diffsplainer](https://vandragt.com/status/929)
+- 2026-11-01 — [DailyFeed now has a what’s new page. It has an Atom feed. And a button to follow it with #DailyFeed , if you’re signed in.](https://vandragt.com/status/928)
+- 2026-11-01 — [Quick tip: you can finally share emails to Reminders or other apps in iOS 27 if you have Siri AI enabled and available. To do this, ask for summary on…](https://vandragt.com/status/927)
 - 2026-10-28 — [Created a fun real time walkie talkie app https://svandragt.github.io/over-and-out/ share a link with someone and get vintage realtime communication l…](https://vandragt.com/status/926)
 - 2026-10-28 — [Got some items to sell? Build out a tinylistings instance and send some more eyes to your eBay listings. Demo: https://listings.vandragt.com/ . v1.0 j…](https://vandragt.com/status/925)
-- 2026-10-20 — [herdr-dash: a board for my agent sessions](https://vandragt.com/herdr-dash-a-board-for-my-agent-sessions)
-- 2026-10-20 — [Created a small script that allows you to save Windows groups so that when you focus one you focus all. Handy for companion apps.](https://vandragt.com/status/922)
-- 2026-10-19 — [Love these QOL oneshot prompts: a small service now watches for the screen lock. When you lock, it pauses every media player that is playing. When you…](https://vandragt.com/status/921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
