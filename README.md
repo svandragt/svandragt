@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-08 — [I often wonder what our desktop environment would look like if the industry prioritised evidence based UX research.](https://vandragt.com/status/932)
 - 2026-11-04 — [Lamb 0.15.0](https://vandragt.com/lamb-releases-0-15-0)
 - 2026-11-01 — [Diff explanations for GitHub pull requests, powered by LLM. v0.1.0 #projects #diffsplainer](https://vandragt.com/status/929)
 - 2026-11-01 — [DailyFeed now has a what’s new page. It has an Atom feed. And a button to follow it with #DailyFeed , if you’re signed in.](https://vandragt.com/status/928)
 - 2026-11-01 — [Quick tip: you can finally share emails to Reminders or other apps in iOS 27 if you have Siri AI enabled and available. To do this, ask for summary on…](https://vandragt.com/status/927)
-- 2026-10-28 — [Created a fun real time walkie talkie app https://svandragt.github.io/over-and-out/ share a link with someone and get vintage realtime communication l…](https://vandragt.com/status/926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
