@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-19 — [Yes I would look at your security vulnerability but I’m busy looking at another one](https://vandragt.com/status/935)
 - 2026-11-14 — [Lamb 0.16.0](https://vandragt.com/lamb-releases-0-16-0)
 - 2026-11-15 — [Added Featured Raids with leaderboards to my Desert Rally Management game Bivouac . Still work in progress, free.](https://vandragt.com/status/934)
 - 2026-11-08 — [I often wonder what our desktop environment would look like if the industry prioritised evidence based UX research.](https://vandragt.com/status/932)
 - 2026-11-04 — [Lamb 0.15.0](https://vandragt.com/lamb-releases-0-15-0)
-- 2026-11-01 — [Diff explanations for GitHub pull requests, powered by LLM. v0.1.0 #projects #diffsplainer](https://vandragt.com/status/929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
