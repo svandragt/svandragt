@@ -19,11 +19,11 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 📡 Latest from my blog
 <!-- BLOG-POST-LIST:START -->
-- 2026-11-19 — [Yes I would look at your security vulnerability but I’m busy looking at another one](https://vandragt.com/status/935)
-- 2026-11-14 — [Lamb 0.16.0](https://vandragt.com/lamb-releases-0-16-0)
-- 2026-11-15 — [Added Featured Raids with leaderboards to my Desert Rally Management game Bivouac . Still work in progress, free.](https://vandragt.com/status/934)
-- 2026-11-08 — [I often wonder what our desktop environment would look like if the industry prioritised evidence based UX research.](https://vandragt.com/status/932)
-- 2026-11-04 — [Lamb 0.15.0](https://vandragt.com/lamb-releases-0-15-0)
+- 2026-11-20 — [The website for Folio is live: Markdown tasks, with a live preview. https://folio.vandragt.com/ Write markdown in the editor and the rendered task lis…](https://vandragt.com/status/940)
+- 2026-11-20 — [Also just made this index of my github pages projects, see if you recognise it https://svandragt.github.io/](https://vandragt.com/status/939)
+- 2026-11-20 — [https://svandragt.github.io/park/ created a onboarding guide as the GitHub pages to introduce park. Have a loook I’m quite happy](https://vandragt.com/status/938)
+- 2026-11-20 — [Race this raid in Bivouac https://svandragt.github.io/bivouac/?seed=311578&tier=continental](https://vandragt.com/status/937)
+- 2026-11-20 — [Do you run Lamb?](https://vandragt.com/do-you-run-lamb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
