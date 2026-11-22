@@ -8,10 +8,10 @@ Senior Web Engineer [@humanmade](https://github.com/humanmade). I build tools fo
 
 ### 🚀 Latest releases
 <!-- RELEASES-LIST:START -->
+- 2026-11-21 — [park v1.3.0](https://github.com/svandragt/park/releases/tag/v1.3.0)
 - 2026-11-14 — [lamb 0.16.0](https://github.com/svandragt/lamb/releases/tag/0.16.0)
 - 2026-11-01 — [streamcables v0.3.0](https://github.com/svandragt/streamcables/releases/tag/v0.3.0)
 - 2026-11-01 — [fafi 0.3.1](https://github.com/svandragt/fafi/releases/tag/0.3.1)
-- 2026-10-30 — [park v1.2.0](https://github.com/svandragt/park/releases/tag/v1.2.0)
 - 2026-10-28 — [vivace v0.23.0](https://github.com/svandragt/vivace/releases/tag/v0.23.0)
 <!-- RELEASES-LIST:END -->
 
